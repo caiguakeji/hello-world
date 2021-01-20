@@ -8,4 +8,7 @@ class Person{
 	String name;
 	int age;
 	double score;
+	public void say(){
+		System.out.println("master");
+	}
 }
