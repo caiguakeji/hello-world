@@ -11,4 +11,7 @@ class Person{
 	public void say(){
 		System.out.println("master");
 	}
+	public int getAge(){
+		return age;
+	}
 }
