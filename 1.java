@@ -10,6 +10,7 @@ class Person{
 	double score;
 	public void say(){
 		System.out.println("master");
+		System.out.println("hello");
 	}
 	public int getAge(){
 		return age;
